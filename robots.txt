@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /_private
+Disallow: /_borders
+Disallow: /_errors
+Disallow: /mediabar
+Disallow: /search
